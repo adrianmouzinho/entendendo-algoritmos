@@ -24,3 +24,11 @@
 - Pilha
 - Pilha de chamadas (Call stack)
 - Recursão de cauda (Tail recursion)
+
+## Capítulo 04: Quicksort
+
+- Dividir para conquistar (DC)
+- Quicksort
+- Pivô
+- Particionamento
+- Merge sort
