@@ -32,3 +32,10 @@
 - Pivô
 - Particionamento
 - Merge sort
+
+## Capítulo 05: Tabelas hash
+
+- Funções hash
+- Tabela hash
+- Chaves e valores
+- Caching
