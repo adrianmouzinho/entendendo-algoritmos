@@ -39,3 +39,8 @@
 - Tabela hash
 - Chaves e valores
 - Caching
+- Colisão
+- Tempo constante
+- Fator de carga
+- Redimensionamento
+- Função SHA
